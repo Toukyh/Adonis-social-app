@@ -1,8 +1,14 @@
 # Adonis-social-app
 
+## Running the app
+
+```bash
+# development
+$ yarn dev
+
 ### Run the following command
-```cmd
-npm install 
+```bash
+$ npm install 
 ```
 ### Set up the .env file 
 
