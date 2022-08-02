@@ -13,7 +13,7 @@ $ npm install
 ```
 ### Set up the .env file 
 
-#### copy and rename the ".env.example" file and set up your database's name
+#### copy and rename the ".env.example" file and set up your database name
 
 ### Get the ID and the secret to google 
 ```url
