@@ -5,6 +5,7 @@
 ```bash
 # development
 $ yarn dev
+```
 
 ### Run the following command
 ```bash
