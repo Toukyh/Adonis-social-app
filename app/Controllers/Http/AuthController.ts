@@ -15,7 +15,7 @@ export default class AuthController {
     } catch {
       return response.status(401).send({
         error: {
-          message: 'User with provided credentials could not be found'
+          message: 'Hello , this is the change !'
         }
       })
     }
